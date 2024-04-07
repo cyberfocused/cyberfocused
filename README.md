@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications</h2>
 - [Computer Hardware Basics](https://(https://www.credly.com/badges/2bbbedca-700b-4891-b941-c1de6bed2d5e/linked_in_profile)
-- [Google Cyber Security Certification]((https://www.coursera.org/account/accomplishments/specialization/E7X5XJX6KWNW))
+- [Google Cyber Security Certification](https://www.coursera.org/account/accomplishments/specialization/E7X5XJX6KWNW)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
