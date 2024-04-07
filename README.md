@@ -4,8 +4,6 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2>📺 Certifications</h2>
 - [Computer Hardware Basics](https://(https://www.credly.com/badges/2bbbedca-700b-4891-b941-c1de6bed2d5e/linked_in_profile)
