@@ -8,14 +8,15 @@
 
 <h2>📺 Certifications</h2>
 - [Computer Hardware Basics](https://(https://www.credly.com/badges/2bbbedca-700b-4891-b941-c1de6bed2d5e/linked_in_profile)
+
 - [Google Cyber Security Certification](https://www.coursera.org/account/accomplishments/specialization/E7X5XJX6KWNW)
-<h2>📺 Popular YouTube Videos</h2>
+- [Generative AI for Everyone Certification](https://www.coursera.org/account/accomplishments/verify/DUD7H7PKWLM3)
+
+- [COMP TIA Security + Certification](https://www.comptia.org) - expected completion - June 2024
+- <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
