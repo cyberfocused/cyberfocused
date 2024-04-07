@@ -13,6 +13,8 @@
 - [Generative AI for Everyone Certification](https://www.coursera.org/account/accomplishments/verify/DUD7H7PKWLM3)
 
 - [COMP TIA Security + Certification](https://www.comptia.org) - expected completion - June 2024
+
+- [Certified HTML Developer Certification](https://https://verify.w3schools.com/1N7G9BGPIC)
 - <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
