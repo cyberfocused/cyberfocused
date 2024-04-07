@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rob! <br/><a href="https:github.com/cyberfocused">,</a> <a href'"https://www.liknedin.com/in/rob-hartman-cyberfocused/><b>Cybersecurity Analyst</a></b> </h1>
+<h1>Hi, I'm Rob! <br/><a href="https:github.com/cyberfocused">, </a> <a href'"https://www.liknedin.com/in/rob-hartman-cyberfocused/><b>Cybersecurity Analyst</a></b> </h1>
 
 <h2>👨‍💻 Cybersecuritry Projects:</h2>
 
