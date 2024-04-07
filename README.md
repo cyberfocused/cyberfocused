@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/cyberfocused/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
-- [Computer Hardware Basics](https://(https://www.credly.com/badges/2bbbedca-700b-4891-b941-c1de6bed2d5e/linked_in_profile)
+- [Computer Hardware Basics](https://www.credly.com/badges/2bbbedca-700b-4891-b941-c1de6bed2d5e/linked_in_profile)
 
 - [Google Cyber Security Certification](https://www.coursera.org/account/accomplishments/specialization/E7X5XJX6KWNW)
 - [Generative AI for Everyone Certification](https://www.coursera.org/account/accomplishments/verify/DUD7H7PKWLM3)
