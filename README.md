@@ -11,7 +11,7 @@
 - [Generative AI for Everyone Certification](https://www.coursera.org/account/accomplishments/verify/DUD7H7PKWLM3)
 - [Artificial Intelligence for Cybersecurity Certification]([(https://www.linkedin.com/learning/certificates/c29d83b00f5871c471d8af5b41e0bd3eb12a53c673419b3cd006fb582b183724?trk=share_certificate)
 
-- [COMP TIA Security + Certification](https://www.comptia.org) - expected completion - July 2024
+- [COMP TIA Security + Certification](https://www.comptia.org) - expected completion - September 2024
 
 - [Certified HTML Developer Certification](https://https://verify.w3schools.com/1N7G9BGPIC)
 - [CISCO Computer Hardware Basics Certification](https://www.credly.com/badges/2bbbedca-700b-4891-b941-c1de6bed2d5e)
